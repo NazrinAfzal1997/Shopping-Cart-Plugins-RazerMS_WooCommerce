@@ -14,13 +14,3 @@ Please update your bookmarks, clone URLs, and CI/CD configurations accordingly.
 All future updates, bug fixes, and feature enhancements will be published in the new repository.
 
 Thank you for your support.
-
----
-
-Fiuu Plugin for Wordpress developed by Fiuu technical team.
-
-UPDATE NOTICE
------
-
-Latest WooCommerce-WP moved to new URL: https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_WooCommerce
-
